@@ -4,7 +4,7 @@ An image question-answering app built with **n8n**. Upload an image, the workflo
 
 
 
-![Workflow screenshot](Workflow3.png)
+![Workflow screenshot](workflow3.png)
 
 
 
